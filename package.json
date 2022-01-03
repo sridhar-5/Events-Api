@@ -1,0 +1,33 @@
+{
+  "name": "events-api-",
+  "version": "1.0.0",
+  "description": "This repo contains all the files created while making node events api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridhar-5/Events-Api-.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "events-app-api",
+    "api"
+  ],
+  "author": "SRIDHAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridhar-5/Events-Api-/issues"
+  },
+  "homepage": "https://github.com/sridhar-5/Events-Api-#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "firebase": "^9.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.4"
+  }
+}
